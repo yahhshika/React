@@ -1,0 +1,12 @@
+/* .commentsDisplay{
+    border: 1px solid rgb(255, 208, 0);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 20px;
+} */
+.commentDiv{
+    border: 0.7px solid white;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 15px 5px;
+}
